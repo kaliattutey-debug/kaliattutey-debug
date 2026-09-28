@@ -25,5 +25,6 @@ Become an expert ML engineer specializing in **on-device inference, quantization
 - Blog: *(link coming Day 6)*
 
 ## 📫 Find me
-- GitHub: you're here
-- LinkedIn / X / Hugging Face / Kaggle: *(add links after creating accounts)*
+[![GitHub](https://img.shields.io/badge/GitHub-kaliattutey-debug-181717?style=for-the-badge&logo=github)](https://github.com/YourUsername)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-thegreatest-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Attutey-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-attutey-a2957843b)
