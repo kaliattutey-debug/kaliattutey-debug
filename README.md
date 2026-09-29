@@ -25,6 +25,6 @@ Become an expert ML engineer specializing in **on-device inference, quantization
 - Blog: *(link coming Day 6)*
 
 ## 📫 Find me
-[![GitHub](https://img.shields.io/badge/GitHub-kaliattutey-debug-181717?style=for-the-badge&logo=github)](https://github.com/thegrestest)
+[![GitHub](https://img.shields.io/badge/GitHub-kaliattutey-debug-181717?style=for-the-badge&logo=github)](https://github.com/kaliattutey-debug)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-thegreatest-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/thegreatest)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Attutey-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-attutey-a2957843b)
